@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Projects/esp32-bluetooth/build/CMakeFiles/bootloader
+C:/Projects/esp32-bluetooth/build/CMakeFiles/bootloader.rule
+C:/Projects/esp32-bluetooth/build/CMakeFiles/bootloader-complete.rule
+C:/Projects/esp32-bluetooth/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Projects/esp32-bluetooth/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Projects/esp32-bluetooth/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Projects/esp32-bluetooth/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+C:/Projects/esp32-bluetooth/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Projects/esp32-bluetooth/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Projects/esp32-bluetooth/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
